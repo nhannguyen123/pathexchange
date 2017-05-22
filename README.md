@@ -1,0 +1,1 @@
+This simple html code will exchange directory path between Windows and Linux formats.
